@@ -39,5 +39,5 @@ The app's API integration is currently **not working** due to [reason, if known,
 
 1. Clone the repository:  
    ```bash
-   git clone https:  (https://zahid0880.github.io/Weather-App/)
+   git clone https:  https://zahid0880.github.io/Weather-App/
    cd weather-app
